@@ -96,4 +96,4 @@ The application will open automatically in your browser at `http://localhost:850
 
 ## 👨‍💻 Developer
 
-Developed by **Dhruv Kumar**
+Developed by **Deepak Bhati**
