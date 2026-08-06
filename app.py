@@ -230,7 +230,7 @@ def render_sidebar():
         )
 
         st.subheader("👨‍💻 Developer")
-        st.write("Dhruv Kumar")
+        st.write("Deepak Bhati")
 
         return options
 
